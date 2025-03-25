@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int idade = 10;
+string nomeCliente = "Millena";
+decimal preco = 20M;
+char letra = 'a';
+var nomeCompleto = "Millena Kappaun";
+var altura = 180;
